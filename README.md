@@ -58,6 +58,9 @@ ou
 
 ```bash
 pytest --cov=triangulo --cov-report=html
+```
+
+---
 
 CT	    Entrada	Resultado Esperado
 CT01	(3,4,5)	Escaleno
